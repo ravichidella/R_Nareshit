@@ -3,13 +3,14 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from model import get_model_results
+#this is a test file
 
 # --------------------------------------------------
 # PAGE CONFIGURATION
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="Telecom Churn Analytics",
+    page_title="Telecom Churn Analytics page",
     page_icon="📡",
     layout="wide"
 )
